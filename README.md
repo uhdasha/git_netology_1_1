@@ -6,7 +6,7 @@
 ### Начало работы
 1. Неоходимо открыть консоль для работы с GIT, например Git Bash
 2. Создать папку, и выполнить переход в нее из консоли
-3. Выполнить комманду git clone git@github.com:patratiy/git_netology_1_1.git
+3. Выполнить комманду git clone git@github.com:uhdasha/git_netology_1_1.git
 
 ### Prerequisites
 Что нужно установить на ПК для использования
